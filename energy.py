@@ -6,7 +6,7 @@ import winreg
 def modoEnergia():
     rg.CreateKeyEx(rg.HKEY_LOCAL_MACHINE,r"SOFTWARE\Microsoft\Windows\CurrentVersion\explorer\ControlPanel\NameSpace\{6bff0ef8-7e5f-4252-a2fc-061dbb1a8571}")
 
-print
+
     
 
 janela = Tk()
