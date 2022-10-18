@@ -1,0 +1,1 @@
+Programa destinado a automatizar o seu computador, mudando automaticamente o modo de energia do windows para acabar economizando energia quando voce nao está a utilizar
